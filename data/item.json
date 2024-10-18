@@ -1,0 +1,119 @@
+[
+     {
+       "id": 1,
+       "name": "The Chorus",
+       "genre": ["Musical || Drama"],
+       "description": "Pierre, a successful orchestra conductor, returns home when his mother dies. He stumbles upon an old diary and recollects the childhood school memories and his music teacher Clement Mathieu.",
+       "releaseYear": 2005,
+       "rating": 8.8,
+       "posterUrl": "https://images.justwatch.com/poster/287764305/s718/koro.jpg",
+       "director": "DIRECTOR : Christophe Barratier",
+       "cast": [  "CAST : Pierre morhange", "Joseph Gordon-Levitt", "Elliot Page"],
+       "duration": "2h 28m"
+     },
+     {
+      "id": 2,
+      "name": "Danton",
+      "genre": ["History || Drama"],
+      "description": "After the French Revolution, former allies Maximilien Robespierre and Georges Danton turn into enemies when Robespierre objects to Danton conducting mass executions.",
+      "releaseYear": 1983,
+      "rating": 9.0,
+      "posterUrl": "https://cdn11.bigcommerce.com/s-yzgoj/images/stencil/1280x1280/products/2909769/5967020/MOVAF8117__80736.1679609115.jpg?c=2",
+      "director": "DIRECTOR:  Andrzej Wajda",
+      "cast": ["CAST : Gerard Depardieu", "Emmanuelle Debever", "Aaron Eckhart"],
+      "duration": "2h 32m"
+    },
+     
+     
+     
+     {
+      "id": 3,
+      "name": "Once Upon a Time in Anotolia",
+      "genre": ["Thriller ||  Drama ||  Crime"],
+      "description": "When two brothers confess to committing a murder in the Anatolian town of Keskin, the town officials accompany them to look for the dead body in the middle of the night.",
+      "releaseYear": 2011,
+      "rating": 9.3,
+      "posterUrl": "https://upload.wikimedia.org/wikipedia/tr/4/4b/Bir_Zamanlar_Anadoluda_afi%C5%9F.jpg",
+      "director": "DIRECTOR :  Nuri Bilge Ceylan",
+      "cast": ["CAST :  Ercan Kesal", "Taner Birsel", "Ahmet Mumtaz Taylan"],
+      "duration": "2h 22m"
+    },
+    {
+      "id": 4,
+        "name": "Eternity and a Day",
+        "genre": [ "Drama"],
+        "description": "Famous writer Alexander is very ill and has little time left to live. He meets a little boy on the street, who is an illegal immigrant from Albania, and goes on a journey with him.",
+        "releaseYear": 1999,
+        "rating": 8.9,
+        "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDgzMDY3NjA4NV5BMl5BanBnXkFtZTcwMjg4MjQzMQ@@._V1_.jpg",
+        "director": "DIRECTOR:  Thodōros Angelopoulos",
+        "cast": ["CAST:  Alexandros", "The Child", "Anna"],
+        "duration": "2h 34m"
+      },
+      {
+        "id": 9,
+        "name": "Jean de Florette",
+        "genre": ["Crime || Comedy"],
+        "description": "A greedy landowner and his backward nephew conspire to block the only water source for an adjoining property in order to bankrupt the owner and force him to sell.",
+        "releaseYear": 1986,
+        "rating": 8.9,
+        "posterUrl": "https://upload.wikimedia.org/wikipedia/en/8/8f/Jean_de_Florette.jpg",
+        "director": "DIRECTOR:  Claude Berri",
+        "cast": ["CAST:  Daniel Auteuil", "Gerard Depardieu", "Yves Montand"],
+        "duration": "4h 11m"
+      },
+     
+    
+     
+     {
+      "id": 6,
+      "name": "Spring, Summer, Fall, Winter... and Spring ",
+      "genre": ["Action  ||  Drama"],
+      "description": "A young boy lives in a floating temple on a lake together with an elderly master who teaches him the ways of the Buddha. He runs off to the city, but returns as the lifestyle there does not suit him.",
+      "releaseYear": 2003,
+      "rating": 8.5,
+      "posterUrl": "https://www.antraktsinema.com/images/pimages/201512/makale_1450472499.jpg",
+      "director": "DIRECTOR:  Kim Ki-duk",
+      "cast": ["CAST:  Old Monk", "The Girl", "Detective Ji"],
+      "duration": "2h 35m"
+    },
+     {
+       "id": 7,
+       "name": "Germinal",
+       "genre": ["Romance || Drama"],
+       "description": "In mid-nineteenth-century northern France, a coal mining town's workers are exploited by the mine's owner. One day, they decide to go on strike, and the authorities repress them.",
+       "releaseYear": 1993,
+       "rating": 8.7,
+       "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTI0MTQ3NzgzM15BMl5BanBnXkFtZTYwNTk5OTE5._V1_.jpg",
+       "director": "DIRECTOR:  Claude Berri ",
+       "cast": ["CAST : Gerard Depardieu", "Mioo-Miou", "Jean Carmet"],
+       "duration": "2h 16m"
+     },
+     
+     {
+       "id": 8,
+       "name": "Climax",
+       "genre": ["Drama"],
+       "description": "A group of French dancers gathers in an empty school to rehearse and party. However, their celebration soon turns into a nightmare when they realise that their drinks are spiked with LSD.",
+       "releaseYear": 2018,
+       "rating": 8.8,
+       "posterUrl": "https://upload.wikimedia.org/wikipedia/tr/0/07/Climax_%282018_film_poster%29.jpg",
+       "director": "DIRECTOR:  Gaspar Noe",
+       "cast": ["CAST:  David", "Alaya", "Selva"],
+       "duration": "2h 19m"
+     },
+     {
+      "id": 5,
+      "name": "Anatomy of a Fall",
+      "genre": ["Thriller || Crime"],
+      "description": "In an isolated mountain chalet near Grenoble, novelist Sandra Voyter decides to reschedule her interview with a female student because her husband, university lecturer Samuel Maleski.",
+      "releaseYear": 2023,
+      "rating": 8.8,
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTk3MjFkZmQtMThiYi00N2JhLTk2YzItZTE5ZGUxZTIyZDVkXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "director": "DIRECTOR:  Justine Triet",
+      "cast": ["CAST:  Sandra Hüller", "Robin Wright", "Swan Arlaud"],
+      "duration": "2h 22m"
+    }
+     
+   ]
+   
